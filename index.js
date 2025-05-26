@@ -1,3 +1,9 @@
+//SDF-FT14 JS Practice Quiz
+//Breakout Room 6
+//Purity Okaroni
+//Fredrick Mwangi
+//Malcolm Kagolobya
+
 //QN: 1 :What will be the output of the following code?
 let a = 5;
 let b = "5";
